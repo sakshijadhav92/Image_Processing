@@ -1,4 +1,5 @@
 # Image_Processing
 
 Detailed Description :
-https://sakshijadhav792.medium.com/computer-vision-basic-opertions-on-image-using-opencv-module-in-python-4e0ea46bed20
+
+https://medium.com/@sakshijadhav1317/basic-opertions-on-image-using-opencv-module-in-python-20f6dff35c4c
